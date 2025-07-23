@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar {
+    border-bottom: black 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 0 15px;
+}
+
+#footbar {
+    border-top: black 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px 0 15px;
+}
